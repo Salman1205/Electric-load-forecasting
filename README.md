@@ -6,19 +6,19 @@ This project implements an advanced electric load forecasting system using machi
 ## Screenshots
 
 ### Dashboard View
-![Dashboard View](frontend/public/dashboard.png)
+![Dashboard View](screenshots/dashboard.png)
 *Main dashboard showing load forecasting predictions and analytics*
 
 ### Clustering Analysis
-![Clustering Analysis](frontend/public/clustering.png)
+![Clustering Analysis](screenshots/clustering.png)
 *Visualization of load pattern clusters*
 
 ### Forecast Results
-![Forecast Results](frontend/public/forecasting.png)
+![Forecast Results](screenshots/forecasting.png)
 *Predicted vs actual load values*
 
 ### Documentation
-![Documentation](frontend/public/documentation.png)
+![Documentation](screenshots/documentation.png)
 *Project documentation and implementation details*
 
 ## Project Structure
