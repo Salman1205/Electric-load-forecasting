@@ -14,6 +14,7 @@
 
 # Python
 __pycache__/
+temp_auto_push.bat
 *.py[cod]
 *$py.class
 
@@ -28,7 +29,7 @@ env/
 .env/
 
 # IDE specific files
-.vscode/
 .idea/
 *.swp
-*.swo 
+*.swo .gitignore
+temp_interactive_push.bat
